@@ -60,4 +60,4 @@ Last update: %d hours %d minutes ago
 Server: CZ""" % refreshcz()) #this part calls variables from refreshcz() function
     print("fc status posted for cz")
 
-bot.run("Insert token here")
+bot.run("NDQ1MjYyNDc3NTM4NzU0NTkx.DfMItQ.PzZR-fxa2LjMP9Ob6u_bWghJw0g")
